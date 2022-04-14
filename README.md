@@ -82,8 +82,18 @@ nohup python train.py data-bin/$data_dir
 | -------------------------------- | ----- | -----|
 | Transformer (base)               | 27.2  | 38.9 |
 | CsaNMT (base)                    | 29.3  | 40.6 |
-| -------------------------------- | ----- | -----|
 | Transformer (big)                | 28.1  | 40.7 |
 | CsaNMT (big)                     | 29.8  | 42.1 |
 --[SacreBLEU](https://github.com/mjpost/sacrebleu) Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0
 
+## Citation
+Please cite as:
+
+``` bibtex
+@inproceedings{ott2019fairseq,
+  title = {Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation},
+  author = {Xiangpeng Wei and Heng Yu and Yue Hu and Rongxiang Weng and Weihua Luo and Rong Jin},
+  booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, ACL 2022},
+  year = {2022},
+}
+```
