@@ -91,7 +91,7 @@ nohup python train.py data-bin/$data_dir
 Please cite as:
 
 ``` bibtex
-@inproceedings{wei2022learning,
+@inproceedings{wei-etal-2022-learning,
   title = {Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation},
   author = {Xiangpeng Wei and Heng Yu and Yue Hu and Rongxiang Weng and Weihua Luo and Rong Jin},
   booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, ACL 2022},
