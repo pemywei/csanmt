@@ -84,6 +84,7 @@ nohup python train.py data-bin/$data_dir
 | CsaNMT (base)                    | 29.3  | 40.6 |
 | Transformer (big)                | 28.1  | 40.7 |
 | CsaNMT (big)                     | 29.8  | 42.1 |
+
 --[SacreBLEU](https://github.com/mjpost/sacrebleu) Signature: nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.0.0
 
 ## Citation
