@@ -6,7 +6,7 @@ PyTorch implementation of CsaNMT: "Learning to Generalize to More: Continuous Se
 - PyTorch version >= 1.7.0
 - python version >= 3.6 
 
-[Link to paper](https://arxiv.org/pdf/)
+[Link to paper](https://arxiv.org/pdf/2204.06812.pdf)
 
 ## Prepare Data
 ### 1. Get dataset: [WMT14 En-De](https://github.com/pytorch/fairseq/blob/main/examples/translation/prepare-wmt14en2de.sh) and [WMT14 En-Fr](https://github.com/pytorch/fairseq/blob/main/examples/translation/prepare-wmt14en2fr.sh)
